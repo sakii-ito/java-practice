@@ -1,3 +1,4 @@
+package src.practice;
 public class MyPerson {
     private int age;
     private String name;

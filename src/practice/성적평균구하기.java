@@ -1,4 +1,4 @@
-
+package src.practice;
 public class 성적평균구하기 {
     public static void main(String[] args) {
         MyPerson m1 = new MyPerson("김길동", 20, 90, 80, 70);
